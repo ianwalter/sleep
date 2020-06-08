@@ -2,6 +2,10 @@
   "name": "@ianwalter/sleep",
   "description": "Utilities to sleep / pause JavaScript execution",
   "version": "0.0.0",
+  "author": {
+    "name": "Ian Walter",
+    "url": "https://ianwalter.dev"
+  },
   "main": "dist/sleep.js",
   "module": "dist/sleep.m.js",
   "scripts": {
@@ -9,6 +13,23 @@
     "test": "bff",
     "pretest": "dist"
   },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "sleep",
+    "pause",
+    "block",
+    "wait"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwalter/sleep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ianwalter/sleep/issues"
+  },
+  "homepage": "https://github.com/ianwalter/sleep#readme",
   "devDependencies": {
     "@ianwalter/bff": "^9.8.2",
     "@ianwalter/dist": "^6.0.0",
