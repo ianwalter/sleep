@@ -328,15 +328,15 @@
     rollup-plugin-node-resolve "^5.2.0"
     rollup-plugin-terser "^5.2.0"
 
-"@ianwalter/eslint-config@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@ianwalter/eslint-config/-/eslint-config-5.0.0.tgz#0648e142d75859ac5eecd817f1605192e83d2c75"
-  integrity sha512-9tk8+CdFUUDCQ7wmA/zb74HTdKQmIuMGeHDWJ6leBUpk3qZs5RkeemuuqUoZbXA0CKbjZbIWFzJj6/id3mCXzg==
+"@ianwalter/eslint-config@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ianwalter/eslint-config/-/eslint-config-5.1.0.tgz#4fdb865b537da0eec3a4bba86c7b79db2cfa1ec2"
+  integrity sha512-QiG5EP2uYHbtk+b6e9PZVhmNLqUJpJ28f6jBIv4v3C0rFop5ViPXu/4hCUZjIlXjrHD7tZ9aP+l72heOOdKX7A==
   dependencies:
-    eslint "^7.0.0"
+    eslint "^7.2.0"
     eslint-config-standard "^14.1.1"
     eslint-plugin-html "^6.0.2"
-    eslint-plugin-import "^2.20.2"
+    eslint-plugin-import "^2.21.2"
     eslint-plugin-node "^11.1.0"
     eslint-plugin-promise "^4.2.1"
     eslint-plugin-standard "^4.0.1"
@@ -1280,10 +1280,10 @@ eslint-plugin-html@^6.0.2:
   dependencies:
     htmlparser2 "^4.1.0"
 
-eslint-plugin-import@^2.20.2:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.1.tgz#3398318e5e4abbd23395c4964ce61538705154c8"
-  integrity sha512-qYOOsgUv63vHof7BqbzuD+Ud34bXHxFJxntuAC1ZappFZXYbRIek3aJ7jc9i2dHDGDyZ/0zlO0cpioES265Lsw==
+eslint-plugin-import@^2.21.2:
+  version "2.21.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.2.tgz#8fef77475cc5510801bedc95f84b932f7f334a7c"
+  integrity sha512-FEmxeGI6yaz+SnEB6YgNHlQK1Bs2DKLM+YF+vuTk5H8J9CLbJLtlPvRFgZZ2+sXiKAlN5dpdlrWOjK8ZoZJpQA==
   dependencies:
     array-includes "^3.1.1"
     array.prototype.flat "^1.2.3"
@@ -1341,7 +1341,7 @@ eslint-visitor-keys@^1.1.0, eslint-visitor-keys@^1.2.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.2.0.tgz#74415ac884874495f78ec2a97349525344c981fa"
   integrity sha512-WFb4ihckKil6hu3Dp798xdzSfddwKKU3+nGniKF6HfeW6OLd2OUDEPP7TcHtB5+QXOKg2s6B2DaMPE1Nn/kxKQ==
 
-eslint@^7.0.0:
+eslint@^7.2.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.2.0.tgz#d41b2e47804b30dbabb093a967fb283d560082e6"
   integrity sha512-B3BtEyaDKC5MlfDa2Ha8/D6DsS4fju95zs0hjS3HdGazw+LNayai38A25qMppK37wWGWNYSPOR6oYzlz5MHsRQ==
